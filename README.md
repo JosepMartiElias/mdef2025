@@ -1,4 +1,4 @@
-# Your name - Fab Academy documentation
+# Josep - MDEF documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
